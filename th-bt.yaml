@@ -31,10 +31,10 @@ esp32:
 api:
 
 ## Logger is enabled
-logger:
+#logger:
 
 ## OTA firmware updates are available
-ota:
+#ota:
 
 ## Accessible portal with control buttons is available
 #web_server:
